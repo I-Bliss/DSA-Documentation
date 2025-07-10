@@ -8,4 +8,8 @@ I started this program following an heartbreaking news of a prolonged srvice wit
 ### Project Overview
 This Data Analysis project aims to generate insights into sales performance on the E-Commerce project over the past year. By analysing the various parameters in the dataset we received, we seek to gather enough insights into trends to make valuable and reasonable decisions which enables us to tell compelig stories around the data from the insight actualized and to knoe the best sales performance from the data
 
+### Data Sources
+The primary Data Source is HR Data.csv and thus is an open source Data that can be freely downloaded from an open source online such as kaggle  or any other data repository site.
+
+### Tool Used
 
