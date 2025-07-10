@@ -13,6 +13,8 @@ The primary Data Source is HR Data.csv and thus is an open source Data that can 
 
 ### Tool Used
 - Microsoft Excel For Data Cleaning (Download here)
+   - For Data Collection
+   - For Data Cleaning 
 - SQL sever (For Quering and Analysis)
 - Power BI (For creating a Report)
 
