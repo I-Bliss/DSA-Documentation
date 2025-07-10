@@ -12,4 +12,7 @@ This Data Analysis project aims to generate insights into sales performance on t
 The primary Data Source is HR Data.csv and thus is an open source Data that can be freely downloaded from an open source online such as kaggle  or any other data repository site.
 
 ### Tool Used
+- Microsoft Excel For Data Cleaning (Download here)
+- SQL sever (For Quering and Analysis)
+- Power BI (For creating a Report)
 
